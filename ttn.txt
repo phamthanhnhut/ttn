@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellohello
+=======
+hihihi
+>>>>>>> fac7ad6fcaab9ab2e133b96e41f7090d75d2aac4
