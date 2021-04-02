@@ -1,1 +1,5 @@
 nhungthai
+<<<<<<< HEAD
+=======
+thi
+>>>>>>> issue
